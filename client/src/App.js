@@ -1,9 +1,11 @@
 import React from 'react';
 import './App.css';
-
-const App() {
+import PlayerList from "./components/PlayerList"
+function App() {
   return (
     <div className="App">
+      <p>dawadwd</p>
+      <PlayerList />
     </div>
   );
 }
