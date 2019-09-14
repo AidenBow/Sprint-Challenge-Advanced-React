@@ -27,5 +27,10 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "@testing-library/react": "^9.1.4",
+    "customize-cra": "^0.6.1",
+    "react-app-rewired": "^2.1.3"
   }
 }
