@@ -1,5 +1,7 @@
 import {useEffect, useState} from "react"
 
+export const DarkToggle = bool => !bool
+
 export const useDarkMode = () => {
     const [darkValue, setDarkValue] = useState()
 
