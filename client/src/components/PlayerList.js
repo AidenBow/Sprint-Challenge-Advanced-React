@@ -1,5 +1,5 @@
 import React, {Component} from "react"
-import PlayerCard from "./PlayerCard"
+import PlayerCard from "./PlayerCard.js"
 
 class PlayerList extends Component {
     constructor(){
